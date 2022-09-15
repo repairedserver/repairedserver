@@ -4,8 +4,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SehyunID&layout=compact&theme=dark&langs_count=4)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repairedserver&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aprkfrmrgua1)](https://solved.ac/aprkfrmrgua1/)
 ### 반가워요 👋
 </div>
