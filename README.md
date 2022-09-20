@@ -34,7 +34,7 @@
 
 </p>  
     <br/>
-    <h3> 🛠️ Stats</h3>
+    <h3> 🔨 Stats</h3>
     
 ![Sehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=repairedserver&&show_icons=true&theme=dark)
     
