@@ -13,15 +13,14 @@
         <img src="https://img.shields.io/badge/Naver-32CD32?style=flat-square&logo=Naver&logoColor=white"/>
     </a>
 <p\>
-    <br/>
-    <br/>
+
     <h3> ⛏️ Stack </h3>
 <p>
 <img src="https://img.shields.io/badge/C-007ACC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00CC66?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3399FF?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-    <br/>
+
     <h3> 🛠️ Tool </h3>
 <p>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
@@ -34,7 +33,7 @@
 <img src="https://img.shields.io/badge/Slack-FF9999?style=flat-square&logo=Slack&logoColor=white"/>
 
 </p>  
-    <br/>
+
     <h3> 🛠️ Stats</h3>
     
 ![Sehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=repairedserver&&show_icons=true&theme=dark)
