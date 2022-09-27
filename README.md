@@ -16,7 +16,7 @@
     <h3> ⛏️ Stack </h3>
 <p>
 <img src="https://img.shields.io/badge/C-007ACC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00CC66?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00CC66?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3399FF?style=flat-square&logo=Python&logoColor=white"/>
 </p>
     <h3> 🛠️ Tool </h3>
