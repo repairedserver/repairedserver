@@ -1,6 +1,6 @@
 ## Hi there 👋
 딥러닝을 공부중이고 목표는 AI 개발자인 김세현입니다.  
-놀땐 놀고 공부할때는 최선을 다해 목표를 이룰 수 있는 사람이 되겠습니다.
+최선을 다해 목표를 이룰 수 있는 사람이 되겠습니다.
 <p>
     <a href="https://velog.io/@aprkfrmrgua" target="_blank">
         <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
