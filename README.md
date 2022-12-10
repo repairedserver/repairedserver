@@ -18,10 +18,6 @@
 <br/>
 
 ---
-<a href="https://velog.io/@aprkfrmrgua" target="_blank">
-  <img src="https://activity-graph.herokuapp.com/graph?username=repairedserver&theme=github" width="700" align="left">
-</a>
-<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aprkfrmrgua1)](https://solved.ac/aprkfrmrgua1/)
 </a>
