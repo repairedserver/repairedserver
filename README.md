@@ -1,9 +1,4 @@
 # 김세현 (Kim sehyun)
-## AI 공부중입니다.
->- 🏃🏻‍♀️ 올해 목표 : 프로젝트 3개 이상 ✅, 인공지능 논문 4개 읽기✅
->- 🏃🏻 1일 1백준
->- 🏃🏻‍♂️ FastAPI랑 파이토치 공부하기
-
 ### My mail and blog
 <a href="mailto:aprkfrmrgua@gmail.com" target="_blank">
   <img src="https://user-images.githubusercontent.com/101509164/196611221-2e0f4522-8b05-4895-a00d-148394ad7811.png" style="padding-right:10px;" width="30" align="left">
