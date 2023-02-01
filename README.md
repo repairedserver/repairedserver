@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/101509164/216056047-03f78021-dbf6-466a-a6c7-9de4a4561807.png">
+<img src="https://user-images.githubusercontent.com/101509164/216056047-03f78021-dbf6-466a-a6c7-9de4a4561807.png" width="500">
 <br/>
 <br/>
 <a href="mailto:aprkfrmrgua@gmail.com" target="_blank">
