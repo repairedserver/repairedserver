@@ -1,4 +1,6 @@
+<a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/rtx-4090/" target="_blank">
 <img src="https://user-images.githubusercontent.com/101509164/216056047-03f78021-dbf6-466a-a6c7-9de4a4561807.png" width="600">
+</a>
 <br/>
 <br/>
 <a href="mailto:aprkfrmrgua@gmail.com" target="_blank">
