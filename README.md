@@ -24,6 +24,6 @@
   <img src="https://user-images.githubusercontent.com/101509164/196610533-424a8bb1-a6c6-48f2-a249-9535aca149da.png" style="width:60px">
 </a>
 &nbsp;
-<a href="https://velog.io/@aprkfrmrgua" target="_blank">
+<a href="https://www.lifewire.com/404-not-found-error-explained-2622936?utm_source=pinterest" target="_blank">
   <img src="https://user-images.githubusercontent.com/101509164/225542194-ce3245ae-5a42-466c-8908-c198a45f6223.png" style="width:65px; height:60px">
 </a>
