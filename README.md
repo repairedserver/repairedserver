@@ -5,10 +5,10 @@
   <img src="https://user-images.githubusercontent.com/101509164/225801026-d393b058-49be-47da-9b64-55a0a6ed1a46.png" style="width:100px; height:230px">
 </a>
 <a href="https://solved.ac/aprkfrmrgua1/" target"_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aprkfrmrgua1" style="width:230px; margin-bottom:50px">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aprkfrmrgua1" style="width:220px; margin-bottom:50px">
 </a>&nbsp;
 <a>
-  <img src="http://mazandi.herokuapp.com/api?handle=aprkfrmrgua1&theme=dark" style="width:230px; margin-bottom:50px">
+  <img src="http://mazandi.herokuapp.com/api?handle=aprkfrmrgua1&theme=dark" style="width:220px; margin-bottom:50px">
 </a>
 </br>
 <a href="mailto:aprkfrmrgua@gmail.com" target="_blank">
