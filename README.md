@@ -2,6 +2,7 @@
 <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/rtx-4090/" target="_blank">
 <img src="https://user-images.githubusercontent.com/101509164/221414080-77046d8c-fe44-43d5-9e1d-08ad74abe512.png" width="300">
 </a>
+</br>
 <a href="mailto:aprkfrmrgua@gmail.com" target="_blank">
   <img src="https://user-images.githubusercontent.com/101509164/196611221-2e0f4522-8b05-4895-a00d-148394ad7811.png" style="margin-bottom:250px; width:60px; height:70px" align="center">
 </a>
