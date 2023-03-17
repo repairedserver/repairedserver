@@ -1,4 +1,4 @@
-
+<center>
 <a href="https://www.nvidia.com/ko-kr/geforce/graphics-cards/40-series/rtx-4090/" target="_blank">
 <img src="https://user-images.githubusercontent.com/101509164/221414080-77046d8c-fe44-43d5-9e1d-08ad74abe512.png" width="300">
 </a>
@@ -15,3 +15,4 @@
 <a href="https://velog.io/@aprkfrmrgua" target="_blank">
   <img src="https://user-images.githubusercontent.com/101509164/225542194-ce3245ae-5a42-466c-8908-c198a45f6223.png" style="margin-bottom:120px; width:65px" align="center">
 </a>
+</center>
