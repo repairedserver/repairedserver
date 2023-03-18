@@ -8,7 +8,7 @@
 <a href="https://solved.ac/profile/aprkfrmrgua1" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aprkfrmrgua1" style="width:230px;">
 </a>
-<a>
+<a href="https://www.acmicpc.net/user/aprkfrmrgua1">
   <img src="http://mazandi.herokuapp.com/api?handle=aprkfrmrgua1&theme=dark" style="width:230px;">
 </a>
 </br></br>&nbsp;&nbsp;&nbsp;&nbsp;
